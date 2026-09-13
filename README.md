@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 안녕하세요 👋
-
-저는 인공지능학과 26학번 07년생 신동효라고 합니다.
+My name is shindong hyo whose major is AI and who was born in 2007 (1st grade).
