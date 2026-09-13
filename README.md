@@ -16,15 +16,4 @@ Here are some ideas to get you started:
 -->
 # 안녕하세요 👋
 
-데이터 분석가와 데이터 사이언티스트를 목표로 공부하고 있습니다.
-
-## 🛠️ Skills
-- Python
-- C
-- SQL
-- Git & GitHub
-
-## 📚 Currently Learning
-- Data Analysis
-- Machine Learning
-- Statistics
+저는 인공지능학과 26학번 07년생 신동효라고 합니다.
